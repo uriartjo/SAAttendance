@@ -10,5 +10,7 @@
     <orderEntry type="library" name="google-api-client-1.25.0" level="project" />
     <orderEntry type="library" name="animal-sniffer-annotations-1.14" level="project" />
     <orderEntry type="library" name="google-api-services-sheets-v4-rev608-1.25.0-javadoc" level="project" />
+    <orderEntry type="library" name="google-api-services-docs-v1-rev50-1.25.0-javadoc" level="project" />
+    <orderEntry type="library" name="google-api-client-1.25.01" level="project" />
   </component>
 </module>
