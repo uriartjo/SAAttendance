@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="google-api-services-sheets-v4-rev608-1.25.0-javadoc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/sheets/google-api-services-sheets-v4-rev608-1.25.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/sheets/google-api-services-sheets-v4-rev608-1.25.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/sheets/google-api-services-sheets-v4-rev608-1.25.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
